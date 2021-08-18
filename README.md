@@ -10,7 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 Movil
 
-!(https://ibb.co/Kcg7rcn)
+![](https://ibb.co/Kcg7rcn)
 
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
