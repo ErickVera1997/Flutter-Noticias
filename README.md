@@ -4,7 +4,7 @@
 
 # Screens
 
-![](https://i.ibb.co/8nw27nk/Screenshot-1629247223.png)
+![](img src="https://i.ibb.co/KVP0tz7/Screenshot-1642951487.png)
 
 
 ![](https://i.ibb.co/RzjhrqR/Screenshot-1629247213.png)
